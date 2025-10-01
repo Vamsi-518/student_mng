@@ -1,0 +1,3 @@
+temp = {1,2,3}
+temp.clear()
+print("Cleared set:", temp)
