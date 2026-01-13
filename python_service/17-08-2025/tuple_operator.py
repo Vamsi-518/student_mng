@@ -1,0 +1,7 @@
+tuple1 = (10, 20, 30)
+tuple2 = (40, 50)
+print("Concatenated:", tuple1 + tuple2)
+print("Repeated:", tuple1 * 2)
+print("Length of tuple1:", len(tuple1))
+print("Is 20 in tuple1?", 20 in tuple1)
+print()
